@@ -163,16 +163,17 @@
   padding-right: 10px;
   
 }
- .first-div img, .second-div img, .third-div img, .fourth-div img, .fifth-div img {
-  height: 100%;
-  width: 100%;
-  transition: all linear 800ms;
-}
 .first-div {
   width: 100%;
   height: 100%;
   position: relative;
   overflow: hidden;
+}
+
+ .first-div img, .second-div img, .third-div img, .fourth-div img, .fifth-div img {
+  height: 100%;
+  width: 100%;
+  transition: all linear 800ms;
 }
 
 .first-div:hover img, .second-div:hover img, .third-div:hover img, .fourth-div:hover img, .fifth-div:hover img {

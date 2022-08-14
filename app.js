@@ -9,5 +9,5 @@ const closeAsideBar = () => {
   aside.style.transform = "translateX(100%)"
 }
 
-openAside.addEventListener('click', openAsideBar)
-closeAside.addEventListener('click', closeAsideBar)
+openAside.addEventListener('click', openAsideBar);
+closeAside.addEventListener('click', closeAsideBar);
