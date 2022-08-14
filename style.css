@@ -350,7 +350,7 @@ transition: ease-out 300ms;
 }
 
 
-@media (min-width: 1344px) {
+@media (min-width: 1440px) {
   .photo-news {
     height: 650px;
   }
